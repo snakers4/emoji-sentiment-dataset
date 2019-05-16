@@ -1,9 +1,9 @@
 # **Table of contents**
-- [Motivation](https://github.com/snakers4/emoji-sentiment-dataset/motivation)
-- [Dataset](https://github.com/snakers4/emoji-sentiment-dataset/dataset)
-- [Downloads](https://github.com/snakers4/emoji-sentiment-dataset/downloads)
-- [Methodology](https://github.com/snakers4/emoji-sentiment-dataset/methodology)
-- [License](https://github.com/snakers4/emoji-sentiment-dataset/license)
+- [Motivation](https://github.com/snakers4/emoji-sentiment-dataset/tree/master#downloads)
+- [Dataset](https://github.com/snakers4/emoji-sentiment-dataset/tree/master#dataset)
+- [Downloads](https://github.com/snakers4/emoji-sentiment-dataset/tree/master#downloads)
+- [Methodology](https://github.com/snakers4/emoji-sentiment-dataset/tree/master#methodology)
+- [License](https://github.com/snakers4/emoji-sentiment-dataset/tree/master#license)
 
 
 # **Motivation**
